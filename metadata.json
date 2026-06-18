@@ -1,0 +1,6 @@
+{
+  "name": "스마트 랜덤 자리 바꾸기",
+  "description": "교실 환경에 특화된 스마트 랜덤 자리 배치 프로그램입니다. 180도 화면 회전, 3초 타이머, 고정석/기피 대상/동반 배치 등 시크릿 설정 기능을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
